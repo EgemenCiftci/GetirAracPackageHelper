@@ -8,9 +8,13 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <None Update="cars.json">
+    <None Remove="cars.json" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Include="cars.json">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
-    </None>
+    </Content>
   </ItemGroup>
 
 </Project>

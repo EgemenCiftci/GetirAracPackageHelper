@@ -1,5 +1,111 @@
 [
   {
+    "PricePerMinute": 5.69,
+    "PricePerKilometer": 4.99,
+    "Packages": [
+      {
+        "FreeMinutes": 0,
+        "FreeKilometers": 250,
+        "Price": 0
+      },
+      {
+        "FreeMinutes": 30,
+        "FreeKilometers": 0,
+        "Price": 79
+      },
+      {
+        "FreeMinutes": 30,
+        "FreeKilometers": 10,
+        "Price": 159
+      },
+      {
+        "FreeMinutes": 45,
+        "FreeKilometers": 20,
+        "Price": 229
+      },
+      {
+        "FreeMinutes": 60,
+        "FreeKilometers": 30,
+        "Price": 299
+      },
+      {
+        "FreeMinutes": 120,
+        "FreeKilometers": 30,
+        "Price": 469
+      },
+      {
+        "FreeMinutes": 120,
+        "FreeKilometers": 50,
+        "Price": 569
+      },
+      {
+        "FreeMinutes": 180,
+        "FreeKilometers": 30,
+        "Price": 609
+      },
+      {
+        "FreeMinutes": 180,
+        "FreeKilometers": 60,
+        "Price": 759
+      },
+      {
+        "FreeMinutes": 300,
+        "FreeKilometers": 80,
+        "Price": 1069
+      },
+      {
+        "FreeMinutes": 1440,
+        "FreeKilometers": 0,
+        "Price": 1159
+      },
+      {
+        "FreeMinutes": 480,
+        "FreeKilometers": 100,
+        "Price": 1419
+      },
+      {
+        "FreeMinutes": 1440,
+        "FreeKilometers": 100,
+        "Price": 1589
+      },
+      {
+        "FreeMinutes": 1440,
+        "FreeKilometers": 175,
+        "Price": 2019
+      },
+      {
+        "FreeMinutes": 1440,
+        "FreeKilometers": 250,
+        "Price": 2269
+      },
+      {
+        "FreeMinutes": 360,
+        "FreeKilometers": 600,
+        "Price": 3669
+      },
+      {
+        "FreeMinutes": 2880,
+        "FreeKilometers": 400,
+        "Price": 4059
+      },
+      {
+        "FreeMinutes": 4320,
+        "FreeKilometers": 500,
+        "Price": 5779
+      },
+      {
+        "FreeMinutes": 7200,
+        "FreeKilometers": 1000,
+        "Price": 9679
+      },
+      {
+        "FreeMinutes": 10080,
+        "FreeKilometers": 1250,
+        "Price": 12869
+      }
+    ]
+  },
+  {
     "PricePerMinute": 6.09,
     "PricePerKilometer": 4.99,
     "Packages": [
@@ -210,6 +316,111 @@
         "Price": 15399
       }
     ]
+  },
+  {
+    "PricePerMinute": 7.89,
+    "PricePerKilometer": 4.99,
+    "Packages": [
+      {
+        "FreeMinutes": 0,
+        "FreeKilometers": 250,
+        "Price": 0
+      },
+      {
+        "FreeMinutes": 30,
+        "FreeKilometers": 0,
+        "Price": 169
+      },
+      {
+        "FreeMinutes": 30,
+        "FreeKilometers": 10,
+        "Price": 209
+      },
+      {
+        "FreeMinutes": 45,
+        "FreeKilometers": 20,
+        "Price": 309
+      },
+      {
+        "FreeMinutes": 60,
+        "FreeKilometers": 30,
+        "Price": 419
+      },
+      {
+        "FreeMinutes": 120,
+        "FreeKilometers": 30,
+        "Price": 649
+      },
+      {
+        "FreeMinutes": 120,
+        "FreeKilometers": 50,
+        "Price": 739
+      },
+      {
+        "FreeMinutes": 180,
+        "FreeKilometers": 30,
+        "Price": 849
+      },
+      {
+        "FreeMinutes": 180,
+        "FreeKilometers": 60,
+        "Price": 999
+      },
+      {
+        "FreeMinutes": 300,
+        "FreeKilometers": 80,
+        "Price": 1499
+      },
+      {
+        "FreeMinutes": 1440,
+        "FreeKilometers": 0,
+        "Price": 2139
+      },
+      {
+        "FreeMinutes": 480,
+        "FreeKilometers": 100,
+        "Price": 2139
+      },
+      {
+        "FreeMinutes": 1440,
+        "FreeKilometers": 100,
+        "Price": 2519
+      },
+      {
+        "FreeMinutes": 1440,
+        "FreeKilometers": 175,
+        "Price": 2969
+      },
+      {
+        "FreeMinutes": 1440,
+        "FreeKilometers": 250,
+        "Price": 3229
+      },
+      {
+        "FreeMinutes": 360,
+        "FreeKilometers": 600,
+        "Price": 4349
+      },
+      {
+        "FreeMinutes": 2880,
+        "FreeKilometers": 400,
+        "Price": 5819
+      },
+      {
+        "FreeMinutes": 4320,
+        "FreeKilometers": 500,
+        "Price": 8469
+      },
+      {
+        "FreeMinutes": 7200,
+        "FreeKilometers": 1000,
+        "Price": 13799
+      },
+      {
+        "FreeMinutes": 10080,
+        "FreeKilometers": 1250,
+        "Price": 18589
+      }
+    ]
   }
 ]
-
